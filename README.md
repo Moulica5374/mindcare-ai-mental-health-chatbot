@@ -115,12 +115,12 @@ A multi-module AI system that processes patient statements through 4 specialized
 ##  How to Run
 
 ### Installation
-\`\`\`bash
+```
 pip install transformers torch scikit-learn pandas
-\`\`\`
+```
 
 ### Basic Usage
-\`\`\`python
+```
 from transformers import pipeline
 
 # Module 1: Classification
@@ -139,11 +139,11 @@ answer = qa_pipeline(question="What symptoms?", context=patient_statement)
 # Module 4: Translation
 translator = pipeline("translation", model="Helsinki-NLP/opus-mt-en-es")
 translated = translator("I need help")
-\`\`\`
+```
 
 ---
 
-## 📈 Results & Evaluation
+## Results & Evaluation
 
 ### Classification Performance
 - **Accuracy:** XX.X%
