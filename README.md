@@ -16,7 +16,7 @@ A multi-module AI system that processes patient statements through 4 specialized
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 ### Module 1: Mental Health Classification
 **Purpose:** Categorize patient statements into 7 mental health conditions
@@ -81,7 +81,7 @@ A multi-module AI system that processes patient statements through 4 specialized
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
 
@@ -93,7 +93,7 @@ A multi-module AI system that processes patient statements through 4 specialized
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 **Framework:** Python 3.11
 
@@ -112,7 +112,7 @@ A multi-module AI system that processes patient statements through 4 specialized
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Installation
 \`\`\`bash
@@ -158,7 +158,7 @@ translated = translator("I need help")
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 1. **Fine-tuning:** Train on domain-specific mental health data
 2. **Real-time Dashboard:** Streamlit app for live patient monitoring
@@ -168,7 +168,7 @@ translated = translator("I need help")
 
 ---
 
-## 🎓 Skills Demonstrated
+##  Skills Demonstrated
 
 - Multi-class text classification
 - Transfer learning with pre-trained models
@@ -197,7 +197,6 @@ This project is for educational and portfolio purposes.
 
 ##  Acknowledgments
 
-- 
 - Pre-trained models: Hugging Face Transformers library
 - Inspiration: Mental health crisis support systems
 """
