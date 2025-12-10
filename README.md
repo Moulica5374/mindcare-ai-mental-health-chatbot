@@ -1,7 +1,5 @@
-# mindcare-ai-mental-health-chatbot
-AI-powered mental health support system using 4 NLP modules for patient assessment and crisis detection
-readme_content = """
 # MindCare AI - Mental Health Support Chatbot
+AI-powered mental health support system using 4 NLP modules for patient assessment and crisis detection
 
 ##  Project Overview
 
