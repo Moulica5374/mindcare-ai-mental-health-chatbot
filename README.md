@@ -75,7 +75,7 @@ A multi-module AI system that processes patient statements through 4 specialized
 
 **Supported Languages:**
 - English ↔ Spanish
-- [Add more as implemented]
+
 
 **Use Case:** Expand mental health services to diverse populations
 
